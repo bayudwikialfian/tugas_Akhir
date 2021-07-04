@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">penggajihan</string>
+    <string name="Eror_nama">String</string>
+    <string name="Eror_nik">string</string>
+    <string name="Eror_alamat">string</string>
+    <string name="Eror_jabatan">string</string>
+    <string name="Eror_email">string</string>
+    <string name="Eror_password">string</string>
+    <string name="minimum_password">string</string>
+    <string name="Eror_username">string</string>
+    <string name="Eror_hari">string</string>
+    <string name="Eror_gajihpoko">string</string>
+    <string name="Eror_uangtunjanganlembur">string</string>
+    <string name="Eror_uangtunjangantranspot">string</string>
+    <string name="Eror_uangtunjangankesehatan">string</string>
+    <string name="Eror_thr">string</string>
+    <string name="Eror_totalgajih">string</string>
+    <string name="eror_nik">string</string>
+    <string name="eror_nama">string</string>
+    <string name="eror_alamat">string</string>
+    <string name="eror_jabatan">string</string>
+    <string name="eror_username">string</string>
+    <string name="eror_password">string</string>
+    <string name="eror_hari">string</string>
+    <string name="eror_totalgajih">string</string>
+    <string name="eror_uangtunjanganlembur">string</string>
+    <string name="eror_uangtunjangankesehatan">string</string>
+    <string name="eror_thr">thr</string>
+    <string name="eror_gajipokok">string</string>
+    <string name="eror_totalgaji">string</string>
+    <string name="eror_uangtunjangantransport">string</string>
+    <string name="eror_jangankesehatan">string</string>
+    <string name="eror_gajibersih">string</string>
+    <string name="eror_gajikotor">string</string>
+    <string name="eror_jngantransport">string</string>
+    <string name="eror_tunjnganmakan">string</string>
+    <string name="eror_tunjanganjabatan">string</string>
+    <string name="eror_tunjangantransport">string</string>
+    <string name="eror_tunjanganmakan">string</string>
+    <string name="eror_tunjangankesehatan">string</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="auth_failed">string</string>
+    <string-array name="usertype">
+        <item>user</item>
+        <item>admin</item>
+    </string-array>
+
+</resources>

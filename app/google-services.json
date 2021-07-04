@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26263750295",
+    "project_id": "penggajian-ee05f",
+    "storage_bucket": "penggajian-ee05f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26263750295:android:dfcb20327464373a1f8bd2",
+        "android_client_info": {
+          "package_name": "com.example.penggajihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26263750295-3gdfrjab460g033v4626carc94vea4kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZtmC909XKJAtba6wVSrL6TNRzfp1ucU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26263750295-3gdfrjab460g033v4626carc94vea4kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
